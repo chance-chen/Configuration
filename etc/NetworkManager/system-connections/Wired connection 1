@@ -1,0 +1,21 @@
+[802-3-ethernet]
+duplex=full
+mac-address=BC:AE:C5:33:83:E0
+
+[connection]
+id=Wired connection 1
+uuid=63dd8b5c-9ea6-494e-bec5-1eb72b8c545c
+type=802-3-ethernet
+timestamp=1412560492
+
+[ipv6]
+method=auto
+
+[802-1x]
+eap=peap;
+identity=domain\\user_name
+phase2-auth=mschapv2
+password=passwd
+
+[ipv4]
+method=auto

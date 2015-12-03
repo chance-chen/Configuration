@@ -1,0 +1,14 @@
+rc.local
+
+eth0 connected to Internet
+eth1 connected to another PC
+eth1: 192.168.1.1
+PC: 192.168.1.2
+the configuration is for PC to have network access
+use the default GW to 192.168.1.1
+DNS: 172.20.168.53
+DNS: 172.20.168.54
+
+system-connections
+
+802.1x authentication configuration
